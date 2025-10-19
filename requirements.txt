@@ -1,0 +1,6 @@
+Your project uses pandas, numpy, and mlxtend (for Apriori and FP-Growth), so you require:
+pandas>=2.0.0
+numpy>=1.24.0
+mlxtend>=0.23.0
+jupyter>=1.0.0
+matplotlib>=3.8.0

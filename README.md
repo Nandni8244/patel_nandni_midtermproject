@@ -1,1 +1,1 @@
-# cs634_nandnipatel_midtermproject
+# patel_nandni_midtermproject
